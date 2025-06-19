@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, meu nome é Mileno O. Matos
 
-<!--
-**MilenoMatos/MilenoMatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação na UNIFAL  
+💻 Apaixonado por programação e tecnologia principalmente backend 
+📚 Atualmente estudando Estruturas de Dados 3, Programação Funcional, Matematica Discreta, Introdução a Ciência da Computação 
+🚀 Em busca de oportunidades para aprender mais sobre desenvolvimento e contribuir com projetos legais  
+🌐 Meus interesses incluem: Java, C, Python, Git, automação, Java Script e Inteligencia Artificial.
 
-Here are some ideas to get you started:
+## 📫 Como me encontrar:
+- Email: mileno.matos@sou.unifal-mg.edu.br
+- GitHub: [MilenoMatos](https://github.com/MilenoMatos)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Projetos em destaque
+
+- **Codigos para testes de estrutura de dados** – Algoritmo para manipular Pilhas, Listas, Filas e Arvores em C.
+- **Pagina Web com tutoriais de resolver diversos tipos de cubos magicos** – Pagina HTML com simulador de cubo magico, e videos intuitivos para soluções de algoritmos de cubos.
+
+### 💡 Curiosidades
+- 🎮 Amo jogos de estratégia
+- ☕ Viciado em café enquanto codifico
+  
