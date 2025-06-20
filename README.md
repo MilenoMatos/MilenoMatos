@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, meu nome é Mileno O. Matos</h1>
+<h1 align="center">👋 Olá, meu nome é Mileno Oliveira Matos</h1>
 
 <p align="center">
 🎓 Estudante de Ciência da Computação na <strong>UNIFAL</strong>  
