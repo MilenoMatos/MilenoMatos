@@ -32,9 +32,12 @@
 
 - 🧩 **Página Web de tutoriais para cubos mágicos**  
   Simulador de cubo mágico com vídeos e algoritmos didáticos em HTML + JS.
+  
+- 📍 [https://milenomatos.github.io](https://milenomatos.github.io).
 
 > 🔗 *Você pode ver mais projetos navegando pelo meu repositório!*
 
+---
 ---
 
 ## 📈 Estatísticas do GitHub
